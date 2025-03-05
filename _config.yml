@@ -1,6 +1,5 @@
+title: title
+description: description
 theme: minima
-
-minima:
-  skin: dark
-  nav_pages:
-    about.md
+header_pages:
+  - about.md

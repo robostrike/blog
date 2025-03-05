@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+theme: minima
+
+minima:
+  nav_pages:
+    about.md
